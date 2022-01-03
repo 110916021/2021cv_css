@@ -1,0 +1,160 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #4c99e2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #2944be;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+tr {
+  line-height: 2;
+}
+
+hr {
+  border:dashed #B983FF 5px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #74f0f0;
+}
+
+.top-container {
+  background-color: #f3b4f0;
+  position: relative;
+  padding-top: 100px;
+  }
+  
+  .middle-container {
+    background-color: #bef5b0;     
+  }
+
+  .middle-container1 {
+    background-color: #bef5b0;     
+    padding: 50px 0 20px;
+  }
+  
+  .bottom-container {
+    background-color: #a2fcfc;
+    padding: 50px 0 20px;
+  }
+
+  .pro {
+    text-decoration:underline;
+  }
+
+  .intro {
+    width: 50%;
+    margin: auto;
+  }
+
+  .ame-one {
+    position: absolute;
+    right: 250px;
+    top: 100px;
+  }
+  
+  .ame-two {
+    position: absolute;
+    left: 170px;
+    bottom: 300px;
+  }
+
+  .ame-three {
+    position: absolute;
+    right: 150px;
+    top: 600px;
+  }
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+
+  .school-row {
+    width: 50%;
+    margin: auto ;
+    text-align:center;
+  }
+
+  .sport-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+  }
+  
+  .anime-img {
+    width: 30%;
+    float: left;
+    margin-left: 0px;
+  }
+
+  .game-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+  }
+
+  .btn {
+    background: #1292e8;
+    background-image: -webkit-linear-gradient(top, #1292e8, #8c3fa6);
+    background-image: -moz-linear-gradient(top, #1292e8, #8c3fa6);
+    background-image: -ms-linear-gradient(top, #1292e8, #8c3fa6);
+    background-image: -o-linear-gradient(top, #1292e8, #8c3fa6);
+    background-image: linear-gradient(to bottom, #1292e8, #8c3fa6);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 4px 2px 3px #000000;
+    -moz-box-shadow: 4px 2px 3px #000000;
+    box-shadow: 4px 2px 3px #000000;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 35px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
